@@ -1,0 +1,314 @@
+20.01 12:02:52 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:02:52 INFO     Login successful.
+20.01 12:03:35 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:03:36 INFO     Login successful.
+20.01 12:03:52 DEBUG    SEARCHING ->> sijjin in cat all
+20.01 12:03:52 DEBUG    Trying to read from /home/DrRoot/.local/share/qBittorrent/nova3/engines/speedapp-token.json
+20.01 12:03:52 DEBUG    Loading JSON file from: {'/home/DrRoot/.local/share/qBittorrent/nova3/engines/speedapp-token.json'}
+20.01 12:03:52 ERROR    An error occurred: [Errno 2] No such file or directory: '/home/DrRoot/.local/share/qBittorrent/nova3/engines/speedapp-token.json'
+20.01 12:03:53 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:03:54 INFO     Login successful.
+20.01 12:03:54 INFO     Searching for sijjin...
+20.01 12:03:55 DEBUG    HTTP request: https://rutracker.org/forum/tracker.php?nm=sijjin | status: 200
+20.01 12:03:55 DEBUG    Torrent data: {'id': '6141306', 'title': '(Death/Thrash Metal) [WEB] Sijjin - Sumerian Promises - 2021, FLAC (tracks), lossless', 'size': '362817026', 'seeds': '5', 'leech': '1'}
+20.01 12:03:55 INFO     1 pages of results found.
+20.01 12:03:55 INFO     1 torrents found.
+20.01 12:03:57 ERROR    An error occurred: The read operation timed out
+20.01 12:05:36 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:05:36 INFO     Login successful.
+20.01 12:05:43 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:05:47 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:05:47 INFO     Login successful.
+20.01 12:05:48 DEBUG    New filelist object created.
+20.01 12:05:48 CRITICAL Default username! Change username!
+20.01 12:05:59 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:06:03 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:06:03 INFO     Login successful.
+20.01 12:06:04 DEBUG    New filelist object created.
+20.01 12:06:04 CRITICAL Default username! Change username!
+20.01 12:06:17 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:06:21 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:06:22 INFO     Login successful.
+20.01 12:06:26 DEBUG    New filelist object created.
+20.01 12:06:26 CRITICAL Default username! Change username!
+20.01 12:06:26 DEBUG    Trying to connect using given credentials.
+20.01 12:06:26 DEBUG    https://iptorrents.com/take_login.php
+20.01 12:06:26 DEBUG    b'username=&password='
+20.01 12:06:43 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:06:43 ERROR    [Errno 2] No such file or directory: '/home/DrRoot/.local/share/qBittorrent/nova3/engines/kinozal.json'
+20.01 12:06:46 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:06:46 INFO     Login successful.
+20.01 12:06:46 DEBUG    New filelist object created.
+20.01 12:06:46 CRITICAL Default username! Change username!
+20.01 12:06:59 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:07:03 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:07:03 INFO     Login successful.
+20.01 12:07:08 DEBUG    New filelist object created.
+20.01 12:07:08 CRITICAL Default username! Change username!
+20.01 12:07:08 ERROR    Incorrect login data
+20.01 12:07:15 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:07:18 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:07:19 INFO     Login successful.
+20.01 12:07:24 DEBUG    New filelist object created.
+20.01 12:07:24 CRITICAL Default username! Change username!
+20.01 12:07:24 ERROR    Incorrect login data
+20.01 12:07:35 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:07:35 ERROR    [Errno 2] No such file or directory: '/home/DrRoot/.local/share/qBittorrent/nova3/engines/nnmclub.json'
+20.01 12:07:38 DEBUG    HTTP request: https://rutracker.org/forum/login.php | status: 200
+20.01 12:07:38 INFO     Login successful.
+20.01 12:07:38 DEBUG    New filelist object created.
+20.01 12:07:38 CRITICAL Default username! Change username!
+20.01 12:07:39 ERROR    Incorrect login data
+20.01 12:07:53 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:07:57 CRITICAL Default username! Change username!
+20.01 12:07:57 ERROR    Captcha requested
+20.01 12:07:58 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:08:56 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:09:00 CRITICAL Default username! Change username!
+20.01 12:09:01 ERROR    Captcha requested
+20.01 12:09:01 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:09:07 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:09:11 CRITICAL Default username! Change username!
+20.01 12:09:12 ERROR    Captcha requested
+20.01 12:09:12 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:09:22 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:09:27 CRITICAL Default username! Change username!
+20.01 12:09:28 ERROR    Captcha requested
+20.01 12:09:28 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:18:12 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:18:16 CRITICAL Default username! Change username!
+20.01 12:18:17 ERROR    Captcha requested
+20.01 12:18:17 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:19:40 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:19:45 CRITICAL Default username! Change username!
+20.01 12:19:45 ERROR    Captcha requested
+20.01 12:19:46 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:19:58 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:20:02 CRITICAL Default username! Change username!
+20.01 12:20:02 ERROR    Captcha requested
+20.01 12:20:02 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:20:15 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:20:18 CRITICAL Default username! Change username!
+20.01 12:20:19 ERROR    Captcha requested
+20.01 12:20:19 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:20:34 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:20:38 CRITICAL Default username! Change username!
+20.01 12:20:39 ERROR    Captcha requested
+20.01 12:20:39 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:20:53 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:20:58 CRITICAL Default username! Change username!
+20.01 12:20:59 ERROR    Captcha requested
+20.01 12:20:59 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:21:27 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:21:33 CRITICAL Default username! Change username!
+20.01 12:21:33 ERROR    Captcha requested
+20.01 12:21:33 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:21:45 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:21:50 CRITICAL Default username! Change username!
+20.01 12:21:51 ERROR    Captcha requested
+20.01 12:21:51 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:22:02 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:22:07 CRITICAL Default username! Change username!
+20.01 12:22:07 ERROR    Captcha requested
+20.01 12:22:07 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:22:18 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:22:23 CRITICAL Default username! Change username!
+20.01 12:22:24 ERROR    Captcha requested
+20.01 12:22:24 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:22:30 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:22:36 CRITICAL Default username! Change username!
+20.01 12:22:37 ERROR    Captcha requested
+20.01 12:22:37 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:22:44 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:22:49 CRITICAL Default username! Change username!
+20.01 12:22:50 ERROR    Captcha requested
+20.01 12:22:50 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:23:54 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:24:02 CRITICAL Default username! Change username!
+20.01 12:24:03 ERROR    Captcha requested
+20.01 12:24:03 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:24:15 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:24:20 CRITICAL Default username! Change username!
+20.01 12:24:20 ERROR    Captcha requested
+20.01 12:24:20 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:24:41 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:24:47 CRITICAL Default username! Change username!
+20.01 12:24:47 ERROR    Captcha requested
+20.01 12:24:47 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:24:57 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:25:03 CRITICAL Default username! Change username!
+20.01 12:25:04 ERROR    Captcha requested
+20.01 12:25:04 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:25:36 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:25:42 CRITICAL Default username! Change username!
+20.01 12:25:42 ERROR    Captcha requested
+20.01 12:25:42 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:25:51 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:25:56 CRITICAL Default username! Change username!
+20.01 12:25:56 ERROR    Captcha requested
+20.01 12:25:57 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:26:27 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:26:32 CRITICAL Default username! Change username!
+20.01 12:26:33 ERROR    Captcha requested
+20.01 12:26:33 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:26:48 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:26:54 CRITICAL Default username! Change username!
+20.01 12:26:55 ERROR    Captcha requested
+20.01 12:26:55 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:27:06 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:27:12 CRITICAL Default username! Change username!
+20.01 12:27:12 ERROR    Captcha requested
+20.01 12:27:12 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:27:25 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:27:30 CRITICAL Default username! Change username!
+20.01 12:27:31 ERROR    Captcha requested
+20.01 12:27:31 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:27:40 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:27:46 CRITICAL Default username! Change username!
+20.01 12:27:46 ERROR    Captcha requested
+20.01 12:27:47 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:28:11 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:28:19 CRITICAL Default username! Change username!
+20.01 12:28:19 ERROR    Captcha requested
+20.01 12:28:19 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:28:34 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:28:39 CRITICAL Default username! Change username!
+20.01 12:28:40 ERROR    Captcha requested
+20.01 12:28:40 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:28:58 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:29:04 CRITICAL Default username! Change username!
+20.01 12:29:04 ERROR    Captcha requested
+20.01 12:29:04 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:29:20 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:29:26 CRITICAL Default username! Change username!
+20.01 12:29:26 ERROR    Captcha requested
+20.01 12:29:26 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:29:46 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:29:52 CRITICAL Default username! Change username!
+20.01 12:29:52 ERROR    Captcha requested
+20.01 12:29:53 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:30:04 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:30:11 CRITICAL Default username! Change username!
+20.01 12:30:12 ERROR    Captcha requested
+20.01 12:30:12 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:30:24 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:30:29 CRITICAL Default username! Change username!
+20.01 12:30:29 ERROR    Captcha requested
+20.01 12:30:30 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:30:52 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:30:57 CRITICAL Default username! Change username!
+20.01 12:30:57 ERROR    Captcha requested
+20.01 12:30:58 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:31:12 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:31:20 CRITICAL Default username! Change username!
+20.01 12:31:20 ERROR    Captcha requested
+20.01 12:31:21 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:31:35 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:31:41 CRITICAL Default username! Change username!
+20.01 12:31:41 ERROR    Captcha requested
+20.01 12:31:41 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:31:49 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:31:55 CRITICAL Default username! Change username!
+20.01 12:31:55 ERROR    Captcha requested
+20.01 12:31:55 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:32:23 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:32:30 CRITICAL Default username! Change username!
+20.01 12:32:30 ERROR    Captcha requested
+20.01 12:32:31 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:32:42 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:32:48 CRITICAL Default username! Change username!
+20.01 12:32:48 ERROR    Captcha requested
+20.01 12:32:48 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:32:59 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:33:04 CRITICAL Default username! Change username!
+20.01 12:33:04 ERROR    Captcha requested
+20.01 12:33:04 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:33:17 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:33:23 CRITICAL Default username! Change username!
+20.01 12:33:23 ERROR    Captcha requested
+20.01 12:33:23 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:33:32 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:33:38 CRITICAL Default username! Change username!
+20.01 12:33:38 ERROR    Captcha requested
+20.01 12:33:38 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:33:55 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:34:01 CRITICAL Default username! Change username!
+20.01 12:34:01 ERROR    Captcha requested
+20.01 12:34:01 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:34:50 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:34:55 CRITICAL Default username! Change username!
+20.01 12:34:55 ERROR    Captcha requested
+20.01 12:34:56 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:35:25 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:35:30 CRITICAL Default username! Change username!
+20.01 12:35:31 ERROR    Captcha requested
+20.01 12:35:31 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:36:06 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:36:12 CRITICAL Default username! Change username!
+20.01 12:36:12 ERROR    Captcha requested
+20.01 12:36:12 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:36:22 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:36:28 CRITICAL Default username! Change username!
+20.01 12:36:29 ERROR    Captcha requested
+20.01 12:36:29 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:36:44 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:36:50 CRITICAL Default username! Change username!
+20.01 12:36:50 ERROR    Captcha requested
+20.01 12:36:50 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:37:00 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:37:06 CRITICAL Default username! Change username!
+20.01 12:37:07 ERROR    Captcha requested
+20.01 12:37:07 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:37:23 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:37:29 CRITICAL Default username! Change username!
+20.01 12:37:29 ERROR    Captcha requested
+20.01 12:37:29 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:38:45 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:39:02 CRITICAL Default username! Change username!
+20.01 12:39:03 ERROR    Captcha requested
+20.01 12:39:03 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:39:21 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:39:35 CRITICAL Default username! Change username!
+20.01 12:39:35 ERROR    Captcha requested
+20.01 12:39:35 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:39:56 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:40:04 CRITICAL Default username! Change username!
+20.01 12:40:04 ERROR    Captcha requested
+20.01 12:40:04 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:40:38 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:40:43 CRITICAL Default username! Change username!
+20.01 12:40:43 ERROR    Captcha requested
+20.01 12:40:43 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:41:21 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:41:27 CRITICAL Default username! Change username!
+20.01 12:41:27 ERROR    Captcha requested
+20.01 12:41:27 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:42:06 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:42:16 CRITICAL Default username! Change username!
+20.01 12:42:17 ERROR    Captcha requested
+20.01 12:42:17 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:42:35 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:42:39 CRITICAL Default username! Change username!
+20.01 12:42:40 ERROR    Captcha requested
+20.01 12:42:40 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:43:33 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:43:47 CRITICAL Default username! Change username!
+20.01 12:43:48 ERROR    Captcha requested
+20.01 12:43:48 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:44:42 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:44:48 CRITICAL Default username! Change username!
+20.01 12:44:48 ERROR    Captcha requested
+20.01 12:44:48 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:45:04 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:45:19 CRITICAL Default username! Change username!
+20.01 12:45:19 ERROR    Captcha requested
+20.01 12:45:19 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:45:59 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:46:01 ERROR    [Errno 2] No such file or directory: '/home/DrRoot/.local/share/qBittorrent/nova3/engines/rutor.json'
+20.01 12:46:10 CRITICAL Default username! Change username!
+20.01 12:46:10 ERROR    Captcha requested
+20.01 12:46:10 ERROR    <urlopen error [Errno 104] Connection reset by peer>
+20.01 12:55:25 DEBUG    Credentials file not found. Using data from current file.
+20.01 12:55:31 CRITICAL Default username! Change username!
+20.01 12:55:32 ERROR    Captcha requested
+20.01 12:55:32 ERROR    <urlopen error [Errno 104] Connection reset by peer>
